@@ -79,6 +79,9 @@ body {
 	height: 100%;
 	position: absolute;
 	top: 0;
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-evenly;
 }
 
 .fb1 {
@@ -90,7 +93,6 @@ body {
 	width: 10%;
 	height: 40%;
 }
-
 
 .fb3 {
 	width: 10%;
