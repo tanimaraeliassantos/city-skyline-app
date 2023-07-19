@@ -28,9 +28,7 @@ body {
 	top: 0;
 }
 
- {
-	/*BACKGROUND BUILDINGS - "bb" stands for "background building" */
-}
+/*BACKGROUND BUILDINGS - "bb" stands for "background building" */
 
 .bb1 {
 	display: flex;
@@ -85,9 +83,7 @@ body {
 	background-color: var(--building-color4);
 }
 
- {
-	/*FOREGROUND BUILDINGS - "fb" stands for "foreground building" */
-}
+/*FOREGROUND BUILDINGS - "fb" stands for "foreground building" */
 
 .fb1 {
 	width: 10%;
