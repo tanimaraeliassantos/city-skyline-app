@@ -140,6 +140,8 @@ body {
 }
 
 .fb1a {
+	border-left: 2vw solid tgransparent;
+	border-right: 2vw solid transparent;
 	border-bottom: 7vh solid var(--building-color4);
 }
 
