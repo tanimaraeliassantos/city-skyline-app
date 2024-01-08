@@ -8,8 +8,9 @@ The application was built as a practice project for a responsive web design cour
 
 ## Features
 
-- Navigation bar with clickable links
-- Adapted to smaller screens
+- Buildings with different sizes and shapes
+- Windows of different sizes and shapes
+- Skyline that changes from daytime to nighttime depending on the size of the screen the user is viewing the app.
 
 ## Technologies
 
