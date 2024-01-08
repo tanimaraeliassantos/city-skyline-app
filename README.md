@@ -1,4 +1,4 @@
-# CITY BUILDINGS APP
+# CITY SKYLINE APP
 
 The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a city landscape with lots of buildings and a beautiful sky built with HTML and CSS.
 
